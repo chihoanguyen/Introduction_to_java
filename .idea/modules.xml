@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_Introduction to Java.iml" filepath="$PROJECT_DIR$/1_Introduction to Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Change/Change.iml" filepath="$PROJECT_DIR$/Change/Change.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Currency/Currency.iml" filepath="$PROJECT_DIR$/Currency/Currency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DayMonth/DayMonth.iml" filepath="$PROJECT_DIR$/DayMonth/DayMonth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DisplayTime/DisplayTime.iml" filepath="$PROJECT_DIR$/DisplayTime/DisplayTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Equation/Equation.iml" filepath="$PROJECT_DIR$/Equation/Equation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Greeting/Greeting.iml" filepath="$PROJECT_DIR$/Greeting/Greeting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeapYear/LeapYear.iml" filepath="$PROJECT_DIR$/LeapYear/LeapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operator/Operator.iml" filepath="$PROJECT_DIR$/Operator/Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Weight/Weight.iml" filepath="$PROJECT_DIR$/Weight/Weight.iml" />
+    </modules>
+  </component>
+</project>
